@@ -1,6 +1,7 @@
 import java.applet.Applet;
 public class MyApplet extends Applet
 { 
+//adasdasd
 	public void init()
 	{
 		System.out.println("init method is Invoked!!");		
